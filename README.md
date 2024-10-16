@@ -2,7 +2,7 @@
 Workshop
 
 ## 1. Initialize Project
-- [ ] Initialize git repo
+- [x] Initialize git repo
 - [ ] Add softuni practice server
 - [ ] Add base vite react project as client
 - [ ] CleanUp client
