@@ -1,24 +1,24 @@
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 export default function Header() {
     return (
         <header>
             <h1>
-                <NavLink class="home" to="/">
+                <Link className="home" to="/">
                     GamesPlay
-                </NavLink>
+                </Link>
             </h1>
             <nav>
-                <NavLink to="/games">All games</NavLink>
+                <Link to="/games">All games</Link>
 
                 <div id="user">
-                    <NavLink to="/create-game">Create Game</NavLink>
-                    <NavLink to="/logout">Logout</NavLink>
+                    <Link to="/create-game">Create Game</Link>
+                    <Link to="/logout">Logout</Link>
                 </div>
 
                 <div id="guest">
-                    <NavLink to="/login">Login</NavLink>
-                    <NavLink to="register">Register</NavLink>
+                    <Link to="/login">Login</Link>
+                    <Link to="register">Register</Link>
                 </div>
             </nav>
         </header>
