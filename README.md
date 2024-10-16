@@ -17,10 +17,10 @@ Workshop
 ## 3. Create Service Layer
 - [x] Service layer architecture disccusion
 - [x] Abstract requester
-- [ ] Add games api
-- [ ] Preseed practice server
+- [x] Add games api
+- [x] Preseed practice server
 ## 4. Page Implementations
-- [ ] Game list
+- [x] Game list
 - [ ] Details
   - [ ] Details link
   - [ ] Details route
