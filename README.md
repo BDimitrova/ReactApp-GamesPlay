@@ -22,8 +22,8 @@ Workshop
 ## 4. Page Implementations
 - [x] Game list
 - [ ] Details
-  - [ ] Details link
-  - [ ] Details route
+  - [x] Details link
+  - [x] Details route
   - [ ] Api function - getOne
 - [ ] Home - Latest Games
 ## 5. Comments (Advanced)
